@@ -1,7 +1,6 @@
 {
   "name": "simply",
   "description": "simply theme for ghost by @GodoFredoNinja",
-  "demo": "https://godofredo.ninja",
   "version": "0.4.0",
   "engines": {
     "ghost": ">=5.0.0"
@@ -11,9 +10,9 @@
     "desktop": "screenshot.jpg"
   },
   "author": {
-    "name": "GodoFredo",
-    "email": "hello@godofredo.ninja",
-    "url": "https://godofredo.ninja"
+    "name": "Mikhail Kazhekin",
+    "email": "me@kazhekin.com",
+    "url": "https://kazhekin.com"
   },
   "gpm": {
     "type": "theme",
@@ -26,16 +25,11 @@
   "keywords": [
     "ghost",
     "theme",
-    "ghost-theme",
-    "GodoFredoNinja"
+    "ghost-theme"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/godofredoninja/simply"
-  },
-  "bugs": {
-    "url": "https://github.com/godofredoninja/simply/issues",
-    "email": "hello@godofredo.ninja"
+    "url": "https://github.com/kazhekin/simply"
   },
   "config": {
     "posts_per_page": 18,
