@@ -39,3 +39,6 @@ yarn-error.log
 yarn.lock
 
 .env
+partials/amp/amp-styles.hbs
+partials/main-styles.hbs
+assets/
