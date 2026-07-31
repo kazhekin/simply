@@ -2,6 +2,10 @@ html {
   @apply text-base;
 }
 
+body, body>div>footer, body>div>header, .post-related {
+  transition: background-color 0.2s ease;
+}
+
 body {
   @apply
     /* bg-base */
